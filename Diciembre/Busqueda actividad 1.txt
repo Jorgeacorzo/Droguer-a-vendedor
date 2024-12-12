@@ -1,0 +1,16 @@
+Para la codificación del módulo debe tener en cuenta los artefactos del ciclo del software realizados con anterioridad: diagrama de clases, diagramas de casos de uso, historias de usuario, diseños, prototipos, Informe técnico de plan de trabajo para construcción de software con tecnologías seleccionadas etc.
+○ Se debe crear el proyecto utilizando herramientas de versionamiento.
+○ El código debe cumplir con estándares de codificación como:
+○ Nombramiento de variables
+○ Nombramiento de métodos
+○ Nombramiento de clases
+○ Nombramiento de paquetes
+○ Debe tener funcionalidades de inserción, consulta, actualización y eliminación.
+para todos estos puntos usar intellij IDEA 2024.3 con jdk21 teniendo en cuenta un proyecto de Software para Droguerías con las siguientes entidades y atributos 
+1. Vendedor: id_usuario, nombre, correo, teléfono, dirección
+2 ventas: id_ventas, id_usuario, contenido_venta, total_venta, historial_venta
+3. Inventarios: Id_inventario, inv_ventas, inv_productos
+4. Balances: Efectivo, productos, auditoría, Balance_total
+5. Proveedor: Id_proveedor, nombre, lista_pedidos, lista_vencidos, lista_malestado, lista_devoluciones, lista_recibidos
+todo creacion de codigo debe ser sencilla y explicada paso a paso de manera teórica, se puede tomar el ejemplo solo para dos o tres entidades por ejemplo: vendedor, ventas, inventarios, tambien quiero que bien explicado esten todos los pasos para hacer esta actividad y su codigo en intellij IDEA 2024.3 y JDK21 que son las herramientas o programas a utilizar, en el código lo posible ejemplos sencillos.
+Ademas de esto subir toda la actividad a un repositorio de Git hub tambien explicado de manera entendible para usar git bash y git hub.com
